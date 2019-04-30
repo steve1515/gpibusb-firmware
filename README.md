@@ -1,6 +1,6 @@
 # GPIBUSB Adapter Firmware (Version 6.00)
 
-This repository contains firmware source and hex files for the @Galvant Industries GPIBUSB adapter revision 3 and 4.
+This repository contains firmware source and hex files for the [@Galvant](https://github.com/Galvant) Industries GPIBUSB adapter revision 3 and 4.
 
 The goal of this project is to achieve near full compatibility with the [Prologix GPIB-USB adapter](http://prologix.biz/manuals.html).
 

@@ -1,10 +1,10 @@
 
 # GPIBUSB Adapter Firmware (Version 6.00)
 
-The goal of this project is to create firmware for the [@Galvant](https://github.com/Galvant) Industries GPIBUSB adapter containing near full compatibility with the [Prologix GPIB-USB](http://prologix.biz/gpib-usb-controller.html) controller.
+The goal of this project is to create firmware for the [Galvant Industries](https://github.com/Galvant) GPIBUSB adapter containing near full compatibility with the [Prologix GPIB-USB](http://prologix.biz/gpib-usb-controller.html) controller.
 
 ## Hardware
-GPIBUSB adapter hardware is designed by [@Galvant](https://github.com/Galvant) Industries.
+GPIBUSB adapter hardware is designed by [Galvant Industries](https://github.com/Galvant).
 
 The associated PCB project can be found at <https://github.com/Galvant/gpibusb-pcb>, and pre-assembled adapters can be purchased at <http://www.galvant.ca/>.
 
@@ -153,7 +153,7 @@ This command sends the Local Lockout (LLO) GPIB command to the currently address
 This command only applies when the GPIBUSB is in controller mode.\
 <br/>
 
-**Send Go To Local (GTL) GPIB Command**\
+**Send Go To Local**\
 This command sends the Go To Local (GTL) GPIB command to the currently addressed device.
 ```
 ++loc

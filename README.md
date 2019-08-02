@@ -322,5 +322,5 @@ This command enables or disables debugging messages.
 This setting defaults to 0 on power-up.
 
 ## License
-This code is released under the AGPLv3 license.
+This code is released under the [AGPLv3 license](LICENSE).
 
